@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm kurtasli</h1>
 
-- 🌱 I’m currently learning **Electrical Electronics Engineering**
+- 🌱 I’m currently learning **Electrical and Electronics Engineering**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aslikurt/**
 
@@ -57,8 +57,11 @@ Here are some ideas to get you started:
   <img width="250" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 </div>
 
+</div>
+<!--
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/aslikurt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
+-->
