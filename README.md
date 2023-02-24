@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h3 align="left">Languages </h3>
+<h3 align="left">Languages: </h3>
 <p 
    align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
