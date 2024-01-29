@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a>
-  <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer"> <img src="https://my.mouser.com/images/marketingid/2019/img/191809878.png?v=011124.1144" alt="mplab" width="40" height="40"/> 
+  <a href="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide" target="_blank" rel="noreferrer"> <img src="https://cc.sj-cdn.net/instructor/kt1ejklh2ngf-microchip-technology/courses/nglvl6713re0/promo-image.1662668816.png" alt="mplab" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
   </a>
