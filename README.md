@@ -52,6 +52,8 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://www.autodesk.com.tr/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="autocad" width="60" height="40"/> 
   </a> 
+    <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/839168408490913792/ukNPeWwa_400x400.jpg" alt="ltspice" width="60" height="40"/> 
+  </a> 
    
 </p>
 
