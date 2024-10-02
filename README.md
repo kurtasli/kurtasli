@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm kurtasli</h1>
 
-- 🌱 I’m currently learning **Electrical and Electronics Engineering**
+- 🌱 I graduated from **Electrical and Electronics Engineering**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aslikurt/**
 
