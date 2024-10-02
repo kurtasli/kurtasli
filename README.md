@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I graduated from **Electrical and Electronics Engineering**
 
 - 📫 How to reach me **https://www.linkedin.com/in/aslikurt/**
+  
+- ⚡ Personal website **https://aslikurt79.wixsite.com/home**
 
 <!--
 
