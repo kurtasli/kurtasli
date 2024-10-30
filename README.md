@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 <div id="header" align="center">
-  <img width="250" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+  <img width="250" src="https://media1.tenor.com/m/uzjlT2w2Ss0AAAAd/circuits-pcb.gif" />
 </div>
 
 </div>
