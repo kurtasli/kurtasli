@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm kurtasli</h1>
+<h1 align="center">Hi 👋, I'm Aslı Kurt </h1>
 
 - 🌱 I graduated from **Electrical and Electronics Engineering**
 
